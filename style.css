@@ -6,7 +6,7 @@ span {
   background-color: lightblue;
   padding: 5px;
   border: 1px solid darkgray;
-} */
+} 
 /* 
 #one {
   background-color:lightblue;
@@ -44,4 +44,16 @@ span {
 
 #text span {
   background-color: white;
+} */
+
+body {
+  text-align: center;
+}
+
+span {
+  display: inline-block;
+}
+
+/* #pics span {
+  border: 1px solid black;
 } */
